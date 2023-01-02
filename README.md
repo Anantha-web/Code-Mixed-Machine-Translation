@@ -1,5 +1,10 @@
 # Code-Mixed-Machine-Translation
-# CoMeT project NLP
+# CoMeT project ANLP
+
+## Teammates
+- Anantha Lakshmi Yadavalli
+- Nanditha Merugu
+- Bhargavi Kurukunda
 
 ### Dataset used: 
 https://drive.google.com/file/d/1yfe4ML4JOcjC2M0AFgrSaJYqXLoCv7F_/view?usp=sharing
