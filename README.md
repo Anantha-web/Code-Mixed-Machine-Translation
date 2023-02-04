@@ -4,7 +4,7 @@
 ## Teammates
 - Anantha Lakshmi Yadavalli
 - Nanditha Merugu
-- Bhargavi Kurukunda
+- Bhargavi Kurukundla
 
 ### Dataset used: 
 https://drive.google.com/file/d/1yfe4ML4JOcjC2M0AFgrSaJYqXLoCv7F_/view?usp=sharing
